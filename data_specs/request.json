@@ -1,0 +1,11 @@
+{
+    "MessageHeader": {
+        "Content-Type": "application/json"
+    },
+    "MessageRequest": {
+        "country": "USA",
+        "city": "New York",
+        "units": "imperial",
+        "weather_type": "current"
+    }
+}
